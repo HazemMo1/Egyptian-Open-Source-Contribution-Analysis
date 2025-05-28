@@ -53,7 +53,7 @@ By collecting and analyzing GitHub data, we can visualize contributions, identif
    
 ## Acknowledgements
 
-- [GitHub-OpenSource-Analysis](https://github.com/heba14101998/GitHub-OpenSource-Analysis)
+- Special thanks to [GitHub-OpenSource-Analysis](https://github.com/heba14101998/GitHub-OpenSource-Analysis) for conducting the data scraping.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
