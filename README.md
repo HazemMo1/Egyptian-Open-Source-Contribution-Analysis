@@ -1,6 +1,6 @@
 # Egyptian-Open-Source-Contribution-Analysis
 
-The Awesome-Egypt-OpenSource initiative analyzes open source contributions from Egyptian developers, uncovering insights into their activities and trends.
+This repository contains the the code and analysis for the Awesome-Egypt-Opensource developers, designed to explore the open-source contributions of Egyptian developers and highlight trends in their engagement.
 
 ## Project Goals
 
